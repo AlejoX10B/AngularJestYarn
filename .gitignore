@@ -1,5 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+# Tests and cache
+.tests
+
 # Compiled output
 /dist
 /tmp
